@@ -26,3 +26,14 @@ saya menggunakan AI untuk, pertama : menjelaskan todo yang harus saya lakukan di
 |--text-md |1rem | teks isi 
 |--text-xl  |1.5rem | judul bagian 
 |--text-3xl |2.25rem | judul halaman 
+
+## Evaluasi yang dilaporkan
+- W3C — Nu Html Checker: 0
+- WCAG — kontras AA tema terang (belum diketahui)
+- WCAG — kontras AA tema gelap (belum diketahui)
+- WCAG — navigasi tab lolos
+
+## Struktur tambahan ##
+1. linimasa
+2. keterampilan
+3. tanya jawab
